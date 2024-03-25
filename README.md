@@ -1,5 +1,6 @@
-/### rawr 🦕
+###  🦕
 
+<img src=https://i.pinimg.com/564x/4e/d3/ac/4ed3ac6f2436c7c77c10e53f6542aae4.jpg width=100% height=250px>
 <div align="center">
   <h1>hey, it's me, bini :)</h1>
 </div>
