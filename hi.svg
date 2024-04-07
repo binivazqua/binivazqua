@@ -34,6 +34,7 @@
           height: 300px;
 
           display: flex;
+          flex-wrap: nowrap;
           justify-content: center;
           align-items: center;
           margin-bottom: 50px;
@@ -41,6 +42,7 @@
 
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
+
 
         .hi {
           animation: hi 1.5s linear -0.5s infinite;
@@ -60,7 +62,7 @@
       </style>
 
       <div class="container">
-        <h1>hey, it's me, bini :) <div class="hi">🪐</div></h1>
+        <h2>hey, it's me, bini :) <div class="hi">🪐</div></h2>
       </div>
     </div>
   </foreignObject>
