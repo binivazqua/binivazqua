@@ -6,8 +6,8 @@
   <h1>hey, it's me, bini :)</h1>
 </div>
 -->
-<div style="width: 100% height: 60%;">
-  <img src="hi.svg" style="width: 100% height= 100%;" alt="Click to see the source">
+<div style="width: 100% height: 100%;">
+  <img src="hi.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 I am a 16 year-old high school student looking forward to make an impact in her community in the realm of science and technology. In the fields that captivate me, I am the lead programming and scouting member of my FRC team Imperator 5887. My FIRST journey has taught me the consistency fueled by passion, is the key to success, leading me to embrace adversity as an open window to prospere 🌱.
