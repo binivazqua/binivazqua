@@ -1,8 +1,13 @@
 ###  🦕
 
+<!--
 <img src=https://i.pinimg.com/564x/4e/d3/ac/4ed3ac6f2436c7c77c10e53f6542aae4.jpg width=100% height=250px>
 <div align="center">
   <h1>hey, it's me, bini :)</h1>
+</div>
+-->
+<div style="width: 100%;">
+  <img src="hi.svg" style="width: 100% height= 10%;" alt="Click to see the source">
 </div>
 
 I am a 16 year-old high school student looking forward to make an impact in her community in the realm of science and technology. In the fields that captivate me, I am the lead programming and scouting member of my FRC team Imperator 5887. My FIRST journey has taught me the consistency fueled by passion, is the key to success, leading me to embrace adversity as an open window to prospere 🌱.
