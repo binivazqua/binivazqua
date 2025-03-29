@@ -1,6 +1,23 @@
 ###  🦕
 
-<h1 align="center">hey, it's me, bini :)</h1>
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF">
+        <animate attributeName="stop-color" values="#00C9FF;#92FE9D;#FFB6C1;#00C9FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#92FE9D">
+        <animate attributeName="stop-color" values="#92FE9D;#FFB6C1;#00C9FF;#92FE9D" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-size="48" font-family="Segoe UI, sans-serif" fill="url(#gradient)">
+    hey, it's me, bini :)
+  </text>
+</svg>
+
 <p align="center">
   👩‍🚀 aspiring robotics engineer · 👩‍💻 creative dev · 🦾 social innovator · 💜 STEMinist
 </p>
