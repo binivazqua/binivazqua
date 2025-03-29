@@ -15,25 +15,27 @@ I recently led a winning project at the **International Air and Space Program**,
 
 ---
 
-### 🧠 i really like...
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+### 🧠 I really like...
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+</p>
 
 ---
 
-### 🔭 currently working on:
-- 🛰️ An ISS-bound space experiment 🌕  
-- 🦾 Morfo’s next-gen prosthesis & telemetry UX  
-- 👩‍🏫 EmpowerShe edtech platform  
-- ✨ My GitHub, LinkedIn & portfolio revamp  
+### 🛠️ currently building:
+- 🛰️ A space experiment that’s going to the **International Space Station**
+- 🦾 Morfo 4.0 – a smarter, more intuitive bionic arm  
+- 👩‍🏫 EmpowerShe: an app that brings **STEM education** to girls in remote areas   
 
 ---
 
 📫 You can reach me at [bini_vazqua](https://www.instagram.com/bini_vazqua/) or connect on [LinkedIn](https://www.linkedin.com/in/binivazquez/) 💌  
-🌊 Also patiently waiting for Frank Ocean to drop music again  
+🌊 i'm blonded (haven't lost the faith in him) 
 
 <p></p>
 <b>My GitHub Stats</b>
