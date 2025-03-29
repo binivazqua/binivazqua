@@ -1,5 +1,6 @@
 ###  🦕
 
+<img src="https://raw.githubusercontent.com/binivazqua/binivazqua/main//newhi.svg" width="100%" />
 
 <p align="center">
   👩‍🚀 aspiring robotics engineer · 👩‍💻 creative dev · 🦾 social innovator · 💜 STEMinist
