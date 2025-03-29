@@ -2,7 +2,7 @@
 
 <h1 align="center">hey, it's me, bini :)</h1>
 <p align="center">
-  👩‍🚀 aspiring astrobiologist · 👩‍💻 creative dev · 🦾 social innovator · 💜 STEMinist
+  👩‍🚀 aspiring robotics engineer · 👩‍💻 creative dev · 🦾 social innovator · 💜 STEMinist
 </p>
 
 ---
@@ -15,37 +15,27 @@ I recently led a winning project at the **International Air and Space Program**,
 
 ---
 
-### ✨ a few things about me:
-- 🪐 Space enthusiast & Artemis generation believer  
-- 💻 Software lead @ EmpowerShe, building an edtech app for girls in remote areas  
-- 🔥 Co-founder @ Morfo Prosthetics – building real-time telemetry apps for EMG-controlled bionics  
-- 🏆 1st Place @ HackPuebla | 🥉 Bronze Medal @ OFMI 2023 (Women’s Informatics Olympiad)  
-- 👩‍🚀 Youngest winner @ NASA’s Right Stuff Award – Space Academy Huntsville  
-- 🤖 Former captain & first female programmer + driver @ FRC Team Imperator 5887  
+### 🧠 i really like...
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
-  
-<box-icon type='logo' name='instagram-alt'></box-icon>
 
-### 👩🏽‍💻 really like...
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+### 🔭 currently working on:
+- 🛰️ An ISS-bound space experiment 🌕  
+- 🦾 Morfo’s next-gen prosthesis & telemetry UX  
+- 👩‍🏫 EmpowerShe edtech platform  
+- ✨ My GitHub, LinkedIn & portfolio revamp  
 
-### 💪🏼 working on...
+---
 
-<p>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+📫 You can reach me at [bini_vazqua](https://www.instagram.com/bini_vazqua/) or connect on [LinkedIn](https://www.linkedin.com/in/binivazquez/) 💌  
+🌊 Also patiently waiting for Frank Ocean to drop music again  
 
-### 🙌 willing to dive more into...
-
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-
-</p>
-
+<p></p>
 <b>My GitHub Stats</b>
 
 <div class="stats">
