@@ -1,27 +1,29 @@
 ###  🦕
 
-<!--
-<img src=https://i.pinimg.com/564x/4e/d3/ac/4ed3ac6f2436c7c77c10e53f6542aae4.jpg width=100% height=250px>
-<div align="center">
-  <h1>hey, it's me, bini :)</h1>
-</div>
--->
-<div style="width: 100% height: 100%;">
-  <img src="hi.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+<h1 align="center">hey, it's me, bini :)</h1>
+<p align="center">
+  👩‍🚀 aspiring astrobiologist · 👩‍💻 creative dev · 🦾 social innovator · 💜 STEMinist
+</p>
 
-I am a 16 year-old high school student looking forward to make an impact in her community in the realm of science and technology. In the fields that captivate me, I am the lead programming and scouting member of my FRC team Imperator 5887. My FIRST journey has taught me the consistency fueled by passion, is the key to success, leading me to embrace adversity as an open window to prospere 🌱.
+---
 
-some cool factss abt me: 
+I’m Biniza “Bini” Vázquez, a 17-year-old high school student at Tecnológico de Monterrey and co-founder of **Morfo Prosthetics**, a Mexican startup developing accessible bionic limbs and real-time rehab tools using Flutter, Firebase & IoT.
 
-- 🪐 I’m a space enthusiast :)
-- 🌱 I am currently involving myself in competitive programming.
-- 🚀 I’m looking for research internship opportunities abroad.
-- ✨ I’m  looking forward to kickstart a women empowering project.
-- 💬 Ask me about my robot 🤖
-- 😄 Pronouns: she/her
-- 💿 Fun fact: music is my painkiller.
-- 🌊 if Frank Ocean doesn't drop music before the end of the year i swear i'm gonna-
+My work lives at the intersection of **space, software, and social impact**.
+
+I recently led a winning project at the **International Air and Space Program**, which will be tested aboard the **International Space Station** 🛰️. I’ve also participated in hackathons, robotics, and olympiads — always chasing the stars, one line of code at a time.  
+
+---
+
+### ✨ a few things about me:
+- 🪐 Space enthusiast & Artemis generation believer  
+- 💻 Software lead @ EmpowerShe, building an edtech app for girls in remote areas  
+- 🔥 Co-founder @ Morfo Prosthetics – building real-time telemetry apps for EMG-controlled bionics  
+- 🏆 1st Place @ HackPuebla | 🥉 Bronze Medal @ OFMI 2023 (Women’s Informatics Olympiad)  
+- 👩‍🚀 Youngest winner @ NASA’s Right Stuff Award – Space Academy Huntsville  
+- 🤖 Former captain & first female programmer + driver @ FRC Team Imperator 5887  
+
+---
   
 <box-icon type='logo' name='instagram-alt'></box-icon>
 
